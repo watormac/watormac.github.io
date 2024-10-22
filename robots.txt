@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://watormac.github.io/watormac.txt.gz
+Sitemap: https://watormac.github.io/app/watormac.txt.gz
+Sitemap: https://watormac.github.io/assets/watormac.txt.gz
+Sitemap: https://watormac.github.io/css/watormac.txt.gz
+Sitemap: https://watormac.github.io/includes/watormac.txt.gz
+Sitemap: https://watormac.github.io/item/watormac.txt.gz
+Sitemap: https://watormac.github.io/src/watormac.txt.gz
